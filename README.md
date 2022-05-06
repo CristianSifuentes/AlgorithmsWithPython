@@ -5,10 +5,31 @@
 
    * [Object-oriented programming
 ](#object-oriented-programming)
-      * [Todo lo que aprenderás sobre expresiones regulares](#places-to-program-for-data-science)
-      * [¿Qué son las expresiones regulares?](#places-to-program-for-data-science)
-      * [Aplicaciones de las expresiones regulares](#places-to-program-for-data-science)
-       * [Introducción al lenguaje de expresiones regulares](#places-to-program-for-data-science)      
+      * [What you will learn about object-oriented programming and algorithms with Python
+](#what-you-will-learn-about-object-oriented-programming-and-algorithms-with-python
+)
+      * [Object-oriented programming
+](#object-oriented-programming)
+      * [Abstract data types and classes, Instances
+](#abstract-data-types-and-classes-instances)
+       * [Decomposition
+](#decomposition)  
+       * [Decomposition
+](#decomposition)  
+       * [Abstraction
+](#abstraction)     
+       * [Functions: decorators base
+](#functions-decorators-base)  
+       * [Setters, getters and property decorador 
+](#setters-getters-y-and-property-decorador) 
+       * [Encapsulation, getters and setters
+](#encapsulation-getters-and-setters) 
+       * [Inheritance
+](#inheritance)     
+       * [Polymorphism
+](#polymorphism)    
+
+
    * [Algorithmic complexitys
 ](#algorithmic-complexity)  
       * [El caracter (.)](#places-to-program-for-data-science) 
