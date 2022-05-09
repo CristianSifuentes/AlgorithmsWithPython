@@ -12,14 +12,12 @@
 ](#abstract-data-types-and-classes-instances)
        * [Decomposition
 ](#decomposition)  
-       * [Decomposition
-](#decomposition)  
        * [Abstraction
 ](#abstraction)     
        * [Functions: decorators base
 ](#functions-decorators-base)  
        * [Setters, getters and property decorador 
-](#setters-getters-y-and-property-decorador) 
+](#setters-getters-and-property-decorador) 
        * [Encapsulation, getters and setters
 ](#encapsulation-getters-and-setters) 
        * [Inheritance
@@ -112,6 +110,14 @@ secondary.
 * We can use variables and methods (private or
 public)
 
+
+
+Functions-decorators-base
+-----------
+
+Setters, getters and property decorador
+-----------
+
 Encapsulation, getters and setters
 -----------
 
@@ -142,6 +148,8 @@ None
 >>> casilla.region
 'Ciudad de México'
 ```
+
+Inheritance
 -----------
 
 * Allows modeling a hierarchy of classes.
