@@ -230,3 +230,94 @@ Polymorphism
 * In Python, it allows us to change the
 behavior of a superclass for
 adapt it to the subclass.
+
+
+
+Algorithmic complexitys
+============
+
+Introduction to algorithmic complexity
+-----------
+
+* Why do we compare the efficiency of a
+algorithm?
+* Temporal complexity vs spatial complexity
+* We can define it as T(n)
+
+Abstract operation count
+-----------
+
+* Time how long you run a
+algorithm.
+* Count steps with an abstract measure of
+operation.
+* Count the steps as we approach the
+infinite.
+
+Asymptotic notation
+-----------
+
+asymptotic growth
+
+* Small variations do not matter.
+* The focus is on what happens as the
+problem size approaches infinity.
+* Best case, average, worst case
+* Big O
+* Nothing else matters the largest term
+
+
+
+```python
+# Ley de la suma
+def f(n):
+ for i in range(n):
+ print(i)
+ for i in range(n):
+ print(i)
+# O(n) + O(n) = O(n + n) = O(2n) = O(n
+```
+
+```python
+# Ley de la suma
+def f(n):
+ for i in range(n):
+ print(i)
+ for i in range(n * n):
+ print(i)
+# O(n) + O(n * n) = O(n + n²) = O(n²
+```
+
+```python
+
+# Ley de la multiplicación
+def f(n):
+ for i in range(n):
+ for j in range(n):
+ print(i, j)
+# O(n) * O(n) = O(n * n) = O(n²
+```
+
+```python
+# Recursividad múltiple
+def fibonacci(n):
+ if n == 0 or n == 1:
+ return 1
+ return fibonacci(n - 1) + fibonacci(n - 2)
+# O(2**n)
+```
+
+Algorithmic complexity classes
+-----------
+
+
+Complexity classes
+algorithmic
+-----------
+
+* O(1) Constant
+* Linear O(n)
+* O(log n) Logarithmic
+* O(n log n) log linear
+* O(n**2) Polynomial
+* O(2**n) Exponence
