@@ -93,6 +93,72 @@ spatial of our algorithms.
 * Learn to solve search problems,
 ordering and optimization.
 
+
+Object-oriented programming
+-----------
+
+Abstract data types and classes, Instances
+-----------
+
+* In Python everything is an object and has a type.
+  * Data representation and forms of interact with them.
+
+* Ways to interact with an object:
+  * Creation
+  * Handling
+  * Destruction
+
+* Abstract data types
+  * Advantages:
+    * Decomposition
+    * Abstraction
+    * Encapsulation
+
+
+```python
+ definición de clase
+class <nombre_de_la_clase>(<super_clase>):
+ def __init__(self, <params>):
+ <expresion>
+ def <nombre_del_metodo>(self, <params>):
+ <expresion>
+```
+```python
+# Definición
+class Persona:
+ def __init__(self, nombre, edad):
+ self.nombre = nombre
+ self.edad = edad
+ def saluda(self, otra_persona):
+ return f'Hola {otra_persona.nombre, me 
+llamo {self.nombre}.'
+# Uso
+>>> david = Persona('David', 35)
+>>> erika = Persona('Erika', 32)
+>>> david.saluda(erika)
+'Hola Erika, me llamo David'
+
+```
+
+* While the class is a cast, the objects
+created are known as instances.
+* When an instance is created, it runs the
+__init__ method
+* All methods of a class receive
+implicitly as first parameter self
+
+* Instances
+   * Class attributes allow us to:
+   * Represent data
+   * Procedures to interact with them (methods)
+* Mechanisms to hide representation
+internal.
+   * Attributes are accessed with dot notation.
+   * May have private attributes. by convention
+start with _
+
+
+
 Decomposition
 -----------
 
