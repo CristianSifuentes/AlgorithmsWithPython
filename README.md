@@ -370,23 +370,64 @@ Virtual environments
 Virtual environments
 -----------
 
+* They allow to isolate the environment to be able to install
+various versions of packages.
+* As of python 3 it is included in the library
+standard on venv module.
+* No professional Python engineer works
+without them.
+
 Graphed
 ============
 
 Why graph?
 -----------
-
+* Bokeh allows to build complex Pattern Recognition graphs
+* Prediction of a series
+* Simplifies interpretation and conclusions
+about the data
+quickly and with simple commands.
+* Allows you to export to various formats such as html,
+notebooks, images, etc.
+* Bokeh can be used on the server with Flask and
+Django.
 
 Simple-chart
 -----------
-
+* Bokeh allows you to build complex graphics of
+quickly and with simple commands.
+* Allows you to export to various formats such as html,
+notebooks, images, etc.
+* Bokeh can be used on the server with Flask and
+Django.
 
 Optimization algorithms
 ============
 
 Introduction to optimization
 -----------
+
+* The optimization concept allows to solve
+lots of computational problems.
+* An objective function that we must maximize or
+minimize.
+* A series of limitations that we must respect.
+
 The backpack problem
 -----------
 Conclusions
 -----------
+
+
+* Abstract types (classes) allow you to create
+powerful programs that shape the world.
+* We can measure the efficiency of various
+algorithms.
+* Graphs allow us to find patterns
+quickly.
+* Optimization
+* Developed computational thinking:
+   * Decomposition
+   * Abstraction
+   * Pattern recognition
+   * Algorithm design
