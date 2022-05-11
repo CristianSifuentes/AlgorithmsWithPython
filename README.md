@@ -321,3 +321,44 @@ algorithmic
 * O(n log n) log linear
 * O(n**2) Polynomial
 * O(2**n) Exponence
+
+
+
+
+Search and sort algorithms
+============
+
+Linear search
+-----------
+* Search all elements in a way
+sequential.
+* What is the worst case?
+
+Binary search
+-----------
+* Divide and conquer.
+* The problem is divided into 2 at each iteration.
+* What is the worst case?
+
+Bubble sort
+-----------
++ Bubble sort is an algorithm that
+repeatedly iterates through a list you need
+sort out Compare adjacent items and
+swap if they are in the wrong order. East
+procedure is repeated until no
+require more exchanges, indicating that the
+list is sorted
+
+Insertion Sort
+-----------
+
+
+Merge Sort
+-----------
+  * Merge sort is a
+divide and conquer algorithm
+First split a list into parts
+the same until sublists remain
+1 or 0 items. Then the
+recombines in an orderly fashion
