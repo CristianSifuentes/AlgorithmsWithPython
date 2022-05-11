@@ -362,3 +362,31 @@ First split a list into parts
 the same until sublists remain
 1 or 0 items. Then the
 recombines in an orderly fashion
+
+
+Virtual environments
+============
+
+Virtual environments
+-----------
+
+Graphed
+============
+
+Why graph?
+-----------
+
+
+Simple-chart
+-----------
+
+
+Optimization algorithms
+============
+
+Introduction to optimization
+-----------
+The backpack problem
+-----------
+Conclusions
+-----------
