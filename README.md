@@ -322,7 +322,9 @@ algorithmic
 * O(n**2) Polynomial
 * O(2**n) Exponence
 
+![Alt text](/ca1.png?raw=true "ca1")
 
+![Alt text](/ca2.png?raw=true "ca2")
 
 
 Search and sort algorithms
@@ -339,6 +341,9 @@ Binary search
 * Divide and conquer.
 * The problem is divided into 2 at each iteration.
 * What is the worst case?
+
+![Alt text](/binarysearch.png?raw=true "Binary Search")
+
 
 Bubble sort
 -----------
